@@ -38,7 +38,8 @@ app.use(minify());
 
 // forcedomain
 app.use(force({
-    hostname: 'mywebsite.com'
+    hostname : 'mywebsite.com',
+    type     : 'permanent'
 }));
 
 
