@@ -29,6 +29,7 @@ app.use(stylus.middleware({
 // Public pathes
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/images', express.static(path.join(__dirname, 'src', 'images')));
+app.use('/scripts', express.static(path.join(__dirname, 'src', 'scripts')));
 
 // Gzip
 app.use(compress());
