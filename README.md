@@ -15,7 +15,7 @@ A boilerplate for lazy people:
 
 Feel free to contribute !
 
-### What does lazy people mean ?
+### What does "lazy people" mean ?
 
 That means me.
 
@@ -30,7 +30,7 @@ Otherwise, here are some reasons why you could use this:
 - Download all that stuff
 - `npm install -g forever && npm install`
 - `forever start app.js`
-- Browse to http://localhost:3000
+- Browse to `http://localhost:3000`
 
 ### Stop it ?
 
@@ -38,4 +38,4 @@ Otherwise, here are some reasons why you could use this:
 
 ### Care about
 
-- www will redirect to www, you can change that in app.js
+- `www` will redirect to `non-www`, you can change that in `app.js`
