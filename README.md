@@ -1,3 +1,5 @@
+**Please be serious and don't use this**
+
 # express-boilerplate-for-lazy-people
 
 A boilerplate for lazy people:
